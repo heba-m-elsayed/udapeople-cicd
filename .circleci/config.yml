@@ -118,7 +118,7 @@ jobs:
        - checkout
        - restore_cache:
           keys: [backend-deps]
-      - run:
+       - run:
           name: Back-end Scan
           command: |
              cd backend
