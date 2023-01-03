@@ -128,6 +128,8 @@ jobs:
              npm install
              npm audit fix
              npm audit fix --force --audit-level=critical
+             npm audit fix --force --audit-level=critical
+             npm audit fix --force --audit-level=critical
              npm audit --audit-level=critical
 #   deploy-infrastructure:
 #     docker:
