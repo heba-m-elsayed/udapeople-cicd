@@ -15,7 +15,3 @@
   npm:
     name: PM2
     global: yes
-
-
-
-sudo apt-get install -y nodejs
