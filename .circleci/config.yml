@@ -189,7 +189,6 @@ jobs:
       - image: cimg/base:stable
     steps:
       - checkout
-      - run: yum install -y tar gzip
       - run:
           name: Ensure back-end infrastructure exists
           command: |
