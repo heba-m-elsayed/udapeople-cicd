@@ -107,7 +107,7 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          keys: [backend-deps]
+          keys: [frontend-deps]
       - run:
           name: Front-end Unit Test
           command: |
@@ -288,7 +288,7 @@ jobs:
       - install_ansible
       - install_nodejs
       - add_ssh_keys:
-          fingerprints: ["e3:f2:68:76:67:6c:31:13:47:c8:6d:a6:53:82:b2:f4"]
+          fingerprints: ["8c:0e:06:ff:7d:05:e7:2a:9b:98:87:77:e7:32:b9:79"]
       - attach_workspace:
           at: ~/
       - restore_cache:
