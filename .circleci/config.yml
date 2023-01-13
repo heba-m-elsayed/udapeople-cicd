@@ -259,8 +259,10 @@ jobs:
       - run:
           name: Install dependencies
           command: |
+            export NODE_ENV=production
             cd frontend
             npm install
+            npm run build
       - run:
           name: Get backend url
           command: |
