@@ -1,30 +1,14 @@
-<<<<<<< HEAD
 [URL01]
 https://github.com/heba-m-elsayed/udapeople-cicd 
 
 [URL02]
-http://udapeople-3b4109a.s3-website-us-east-1.amazonaws.com
+http://udapeople-8908603.s3-website-us-east-1.amazonaws.com
 
 [URL03]
 http://d2yemm613fnysk.cloudfront.net
 
 [URL04]
-ec2-52-207-238-88.compute-1.amazonaws.com
+ec2-3-83-173-109.compute-1.amazonaws.com
 
 [URL05]
-=======
-[URL01]
-https://github.com/heba-m-elsayed/udapeople-cicd 
-
-[URL02]
-http://udapeople-3b4109a.s3-website-us-east-1.amazonaws.com
-
-[URL03]
-http://d2yemm613fnysk.cloudfront.net
-
-[URL04]
-ec2-52-207-238-88.compute-1.amazonaws.com
-
-[URL05]
->>>>>>> d720cfcfdcea8dfcba438217e9b4f7020a46d863
-ec2-18-204-197-251.compute-1.amazonaws.com
+ec2-54-211-24-165.compute-1.amazonaws.com
